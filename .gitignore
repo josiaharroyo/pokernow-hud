@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# SQLite database
+*.db
+*.sqlite
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
